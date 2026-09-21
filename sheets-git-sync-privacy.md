@@ -1,0 +1,1 @@
+sheets-git-sync is a personal tool used only by its developer for evaluating Google API possibilities. No data is sent to any third party or stored elsewhere.
